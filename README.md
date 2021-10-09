@@ -13,8 +13,10 @@ php artisan key:generate
 - return to terminal
 ```
 php artisan migrate
-php artisan serv : it will help running applications on the PHP development server url http://lcoalhost:8000 by default
+php artisan serv
 ```
+it will help running applications on the PHP development server url http://lcoalhost:8000 by default
+
 - open your browsre and go to http://lcoalhost:8000
 ##  Enjoy !!
 
