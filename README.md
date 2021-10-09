@@ -3,7 +3,7 @@
 #### First Of All:
 - open your terminal 
 ``` 
-git clone https://github.com/YasserAmmarKanj/testEcommerceProject.git
+git clone git clone https://github.com/FoxWilliamLucas/EcommerceTest.git
 cd testEcommerceProject
 composer install
 cp .env.example .env
