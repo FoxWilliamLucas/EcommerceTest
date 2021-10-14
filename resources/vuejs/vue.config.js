@@ -1,7 +1,7 @@
 module.exports = {
   transpileDependencies: ["vuetify"],
-  outputDir: "../../public/assets/vuejs",
-  publicPath: process.env.NODE_ENV === "production" ? "/assets/vuejs/" : "/",
+  outputDir: "../../public/vuejs",
+  publicPath: process.env.NODE_ENV === "production" ? "/vuejs/" : "/",
   indexPath:
     process.env.NODE_ENV === "production"
       ? "../../resources/views/welcome.blade.php"
